@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+}
+
+#submit{
+    background-color: green;
+}
+
+#reset{
+    background-color: red;
+}
+
+form{
+    text-align: left;
+    background-color: white;
+    border-radius: 10px;
+    margin: 40px;
+    padding: 40px;
+    box-sizing: content-box;
+    width: min-content;
+}
+
+#passWarning{
+    color: red;
+}
+
+#birthWarning{
+    color: red;
+}
+
+#congrats{
+    color: green;
+}
