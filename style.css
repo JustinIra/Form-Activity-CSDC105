@@ -9,10 +9,12 @@ h1{
 
 #submit{
     background-color: green;
+    color: white;
 }
 
 #reset{
     background-color: red;
+    color: white;
 }
 
 form{
